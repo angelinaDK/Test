@@ -1,0 +1,6 @@
+hello
+hello^Z
+
+
+D:\
+D:\Ангелина>git init
